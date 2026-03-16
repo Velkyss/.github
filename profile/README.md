@@ -12,5 +12,5 @@ Velkyss is a software brand focused on mobile-first development, Kotlin Multipla
 - Prototypes and experiments
 
 ## Links
-- Website: https://velkyss.dev
+- Website: https://www.velkyss.dev
 - Contact: contact@velkyss.dev
